@@ -24,6 +24,11 @@
 
 }
 
+.nav_link a{
+
+    color: white;
+
+}
 .nav_link{
     font-family:Balsamiq Sans;
     font-weight: 700;
@@ -367,6 +372,10 @@ text-align: left;
 
 }
 
+
+.footer_container a, .top a{
+    text-decoration: none;
+}
 
 .footer_container{
     width:100%;

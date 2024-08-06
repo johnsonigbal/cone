@@ -1,0 +1,220 @@
+
+three cone page 
+
+<div id="cone" class="cone_container">
+
+    <div class="cone_subcontainer_1">
+
+        <div class="cone_text_big">
+            Ice cream is cheaper than therapy for stress.
+
+        </div>
+
+
+        <div class="cone_text_small">
+            Ice cream is a type of frozen food that is made from water, milk and some added elements.
+
+        </div>
+
+    </div>
+
+
+<div class="cone_subcontainer_2">
+
+    <div class="cone_img_container_1">
+
+        <div>
+
+            <img class="cone_img" src="../asset/image/image 31.png" alt="" srcset="">
+
+        </div>
+
+        <div class="cone_name">
+            Carnival (Vanilla)
+        </div>
+
+    </div>
+
+    <div class="cone_img_container_2">
+
+        <div>
+
+            <img class="cone_img" src="../asset/image/image 32.png" alt="" srcset="">
+
+        </div>
+
+        <div class="cone_name">
+            Choco delight </div>
+
+    </div>
+
+    <div class="cone_img_container_3">
+        <div>
+
+            <img class="cone_img" src="../asset/image/image 33.png" alt="" srcset="">
+
+        </div>
+
+        <div class="cone_name">
+            Carnival Strawberry </div>
+    </div>
+
+</div>
+
+
+</div>
+
+
+<!-- buy now page-->
+
+
+
+    <div class="buy_container">
+
+        <div class="buy_subcontainer_1">
+
+            <img  class="buy_subcontainer_1_img" src="../asset/image/Group 67.png" alt="" srcset="">
+
+        </div>
+
+        <div class="buy_subcontainer_2">
+
+            <div class="buy_subcontainer_2_text_1">
+                Stress out ? Try eating our ice cream.
+            </div>
+
+            
+            <div class="buy_subcontainer_2_text_2">
+                Ice cream is a  type of frozen  food that  is made from water, milk and some added elements. It is a sweet and interesting food item for the kids everywhere.  
+
+            </div>
+
+            
+            <div class="buy_subcontainer_2_button">
+
+                <button type="button">Buy Now</button>
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+
+    <!-- review page-->
+
+
+        <div id="review"class="review_container">
+
+            <div class="review_subcontainer_1">
+
+                <div class="review_subcontainer_first">
+                    <img class="review_img" src="../asset/image/Group 76.png" alt="" srcset="">
+                </div>
+                <div class="review_subcontainer_second">
+                    
+                <div class="review_text_1">
+                    Your ice cream store around the corner.
+                </div>
+
+                
+                <div class="review_text_2">
+                    The Polar family stands strong to satisfy customers, consumers and other stakeholders with high quality ice creams and superior services.
+
+                </div>
+
+                
+                <div class="review_text_3">
+
+                    <div class="review_name_1">
+                   
+                        <div class="name_text1">
+                            Rebecca M. Iverson
+                        </div>
+                        
+                        
+                        <div class="name_text2">
+                            UI Designer
+                        </div>
+                    </div>
+
+                    <div class="review_star">
+                        <img src="../asset/image/Group 70.png" alt="" srcset="">
+                    </div>
+
+                </div>
+
+
+                </div>
+
+
+            </div>
+
+            <div class="review_subcontainer_2">
+
+                <img src="../asset/image/Group 79.png" alt="" srcset="">
+
+            </div>
+            
+
+        </div>
+
+                <!-- offer page-->
+
+
+        <div class="offer_container">
+
+                <div    class="offer_subcontainer_1">
+
+                    <div class="offer_text1">
+
+                        Flat 50% OFF, Hurry up before the stock ends
+
+                    </div>
+ 
+                    
+                    <div class="offer_text2">
+                        Ice cream is a  type of frozen  food that  is made from water, milk and some added elements.
+                    </div>
+ 
+                    
+                    <div >
+                        <button  class="offer_button" type="button">Buy Now</button>
+                    </div>
+ 
+                </div>
+
+                <div class="offer_subcontainer_2">
+
+                    <img src="../asset/image/943-removebg 1.png" alt="" srcset="">
+
+                </div>
+
+
+        </div>
+
+        <div id="contact"class="footer_container">
+
+            <div class="footer_logo">
+                <img src="../asset/image/image3.png" alt="" srcset="">
+            </div>
+
+            <div class="footer_link">
+
+                <a href="#home">Home</a>
+                <a href="#cone" >Product</a>
+                <a href="#review">About</a>
+                <a href="#contact">Contact</a>
+            </div>
+
+            <div class="footer_social_logo">
+                    <img src="../asset/image/Icon 1.png" alt="" srcset="">
+                    <img src="../asset/image/Icon 2.png" alt="" srcset="">
+                    <img src="../asset/image/Icon 3.png" alt="" srcset="">
+                    <img src="../asset/image/Icon 4.png" alt="" srcset="">
+                </div>
+
+            
+
+        </div>
