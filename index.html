@@ -32,7 +32,7 @@
         <div><a href="#About">About</a></div>
         <div><a href="#Contact">Contact</a> </div>
      </div>
-     <div id="menu"><svg xmlns="http://www.w3.org/2000/svg" height="54px" viewBox="0 -960 960 960" width="54px" fill="#5f6368"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg>
+     <div id="menu" onclick="openmenu()"><svg xmlns="http://www.w3.org/2000/svg" height="54px" viewBox="0 -960 960 960" width="54px" fill="#5f6368"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg>
     </div>
     
 
@@ -284,6 +284,11 @@
 
 function closed(){
     side_bar_closed.style.display='none';
+
+}
+
+function openmenu(){
+    side_bar_closed.style.display='flex';
 
 }
 

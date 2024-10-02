@@ -134,6 +134,17 @@
 
 @media (max-width:500px) {
     
+    #menu{
+        display: block;
+        padding-right: 10px;
+    }
+
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items:self-end;
+    }
+
 
     .top_subcontainer{
 
@@ -152,7 +163,7 @@
 
 
           .side_bar{
-            display: flex;
+           
             width: 100%;
         
         }
@@ -168,11 +179,15 @@
 
 @media (max-width:450px) {
 
-    
-    .top_subcontainer h1{
 
-        font-size: .5em;
+    .top_subcontainer h1{
+  
+        font-size: .4em;
         }
+        .top_subcontainer {
+            top: 1%;;
+         
+            }
         
 
 }
