@@ -19,93 +19,6 @@
     }
 
 
-    
-  
-     /* 
-nav{
-     z-index: 3;
-     color: white;
-    margin-right: 100px;
-    }
-  nav ul{
-    width: 100%;
-    display:flex;
-    justify-content: end;
-    align-items:center ;
-    flex-direction: row;
-    list-style: none;
-
-}
-
-ul li{
-
-    height: 50px;
-}
-
-nav a{
-    height: 100%;
-    padding: 0 30px;
-    text-decoration: none;
-    display:flex ;
-    align-items: center;
-    color:white;
-}
-
-nav a:hover{
-    background-color: #f0f0f0;
-}
-nav li:first-child{
- margin-right: auto;
- margin-left: 200px;       
-
-.side_bar{
-
-    position: fixed;
-    top: 0;
-    right: 0;
-    height: 100vh;
-    width: 250px;
-    z-index: 999;
-    backdrop-filter: blur(10px);
-    background-color: rgb(95, 1, 40);
-    box-shadow: -10px 0 10px black;
-    display: none;
-    flex-direction:column;
-    align-items:flex-start;
-    justify-content:flex-start;
-}
-
-.side_bar li{
-    width: 100%;
-}
-
-.side_bar a{
-    width: 100%;
-}
-
-.meanubutton{
-    display: none;
-}
-
-@media(max-width:600px){
-
-    .hideonmobile{
-        display:none
-    }
-
-    .meanubutton{
-    display: block;
-}
-    }
-
-    @media(max-width:400px)
-    {
-    .side_bar{
-    width: 100%; 
-} 
-
-    } */
- 
 nav{
     display: flex;
     justify-content: space-between;
@@ -151,22 +64,7 @@ nav{
     margin-top: 40px;
 }
 
-@media (max-width:500px) {
-    .side_bar{
-        display: flex;
-        width: 100%;
-        
 
-    }
-    .navbar{
-        display: none;
-    }
-
-    .side_bar div{
-        margin-left: 30px;
-    }
-    
-}
 
 .top_subcontainer{
 
@@ -210,13 +108,7 @@ nav{
 }
 
 
-@media (max-width:1300px){
 
-    .top_subcontainer{
-        width: 90%;
-        left:30px
-    }
-}
 
 .cone_container{
     
@@ -626,6 +518,8 @@ justify-content: flex-start;
 
 
   </style>
+
+  <link rel="stylesheet" href="./css/media.css">
 </head>
 
 <body>
@@ -657,15 +551,17 @@ justify-content: flex-start;
 <div class="top_subcontainer">
 
     <div class="top_txt1">
-        Sweet ice cream for pleasure seekers.
+       <h1> Sweet ice cream for pleasure seekers.</h1>
     </div>
     <div class="txt_img">
         <div class="img4">
             <img src="./asset/image/image5.png" alt="" srcset="">
         </div>
-        <div class="txt4">Ice cream is a type of frozen food that is made from water,milk and some added
-            elements.It is a
-            sweet and interesting food item for the kids everywhere.
+        <div class="txt4">
+            <p>Ice cream is a type of frozen food that is made from water,milk and some added
+                elements.It is a
+                sweet and interesting food item for the kids everywhere.
+            </p>
         </div>
     </div>
     <div class="img5">
